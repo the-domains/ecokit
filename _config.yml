@@ -1,7 +1,7 @@
 name: ecokit
 favicon: null
-layout_spectrum: 0.9432585679460317
-typography_spectrum: 0.8972722138278186
+layout_spectrum: 1
+typography_spectrum: 0.39404
 cta:
   domain: null
   bucket: null
