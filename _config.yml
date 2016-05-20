@@ -2,6 +2,7 @@ name: ecokit
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.39404
+title: house for today and for tomorrow
 cta:
   domain: null
   bucket: null
